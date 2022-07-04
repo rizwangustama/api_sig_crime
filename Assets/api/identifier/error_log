@@ -1,0 +1,8 @@
+[16-Jun-2022 16:53:07 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9
+[16-Jun-2022 16:53:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYENIwH' to '' in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9
+[16-Jun-2022 16:53:38 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9
+[16-Jun-2022 16:53:38 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7BzjnM' to '' in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9
+[16-Jun-2022 16:54:11 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9
+[16-Jun-2022 16:54:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvTSH90' to '' in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9
+[16-Jun-2022 16:54:46 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9
+[16-Jun-2022 16:54:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQJDQph' to '' in /home/rizwangu/public_html/sig/Assets/api/identifier/identifierupload.php on line 9

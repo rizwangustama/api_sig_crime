@@ -1,0 +1,85 @@
+[03-Jun-2022 06:04:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:07:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rizwangu_rizwangustama'@'localhost' to database 'rizwangu_sig_crime' in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:13:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rizwangu_rizwangustama'@'localhost' to database 'rizwangu_sig_crime' in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:14:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rizwangu_rizwangustama'@'localhost' to database 'rizwangu_sig_crime' in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:15:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rizwangu_rizwangustama'@'103.145.226.247' to database 'rizwangu_sig_crime' in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:16:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rizwangu_rizwangustama'@'103.145.226.247' to database 'rizwangu_sig_crime' in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:16:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rizwangu_rizwangustama'@'localhost' to database 'rizwangu_sig_crime' in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:18:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:18:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:18:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:19:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'dci17.dewaweb.com' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:20:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'dci17.dewaweb.com' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:20:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 06:20:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 08:52:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[03-Jun-2022 08:53:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[05-Jun-2022 18:20:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 28
+[05-Jun-2022 18:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/DataBase.php:88
+Stack trace:
+#0 /home/rizwangu/public_html/sig/Assets/api/dashdata.php(5): DataBase->getDashboardData()
+#1 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 88
+[05-Jun-2022 18:23:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/DataBase.php:88
+Stack trace:
+#0 /home/rizwangu/public_html/sig/Assets/api/dashdata.php(5): DataBase->getDashboardData()
+#1 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 88
+[05-Jun-2022 18:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/DataBase.php:88
+Stack trace:
+#0 /home/rizwangu/public_html/sig/Assets/api/dashdata.php(5): DataBase->getDashboardData()
+#1 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 88
+[05-Jun-2022 18:24:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/DataBase.php:88
+Stack trace:
+#0 /home/rizwangu/public_html/sig/Assets/api/dashdata.php(5): DataBase->getDashboardData()
+#1 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 88
+[05-Jun-2022 18:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 8
+[05-Jun-2022 18:30:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 8
+[05-Jun-2022 18:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 8
+[05-Jun-2022 18:32:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 8
+[05-Jun-2022 18:32:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/DataBase.php:88
+Stack trace:
+#0 /home/rizwangu/public_html/sig/Assets/api/dashdata.php(5): DataBase->getDashboardData()
+#1 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 88
+[05-Jun-2022 18:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 8
+[05-Jun-2022 18:33:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 8
+[05-Jun-2022 18:42:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 17
+[05-Jun-2022 18:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 17
+[05-Jun-2022 18:43:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 17
+[05-Jun-2022 18:43:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/instansi.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/instansi.php on line 17
+[05-Jun-2022 18:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rizwangu/public_html/sig/Assets/api/DataBase.php:88
+Stack trace:
+#0 /home/rizwangu/public_html/sig/Assets/api/dashdata.php(5): DataBase->getDashboardData()
+#1 {main}
+  thrown in /home/rizwangu/public_html/sig/Assets/api/DataBase.php on line 88
+[05-Jun-2022 18:53:27 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/rizwangu/public_html/sig/Assets/api/dashdata.php on line 26
+[05-Jun-2022 19:06:07 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 4 given in /home/rizwangu/public_html/sig/Assets/api/dashdata.php on line 52
+[05-Jun-2022 19:06:15 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 4 given in /home/rizwangu/public_html/sig/Assets/api/dashdata.php on line 52
+[05-Jun-2022 19:24:11 UTC] PHP Parse error:  syntax error, unexpected '=', expecting end of file in /home/rizwangu/public_html/sig/Assets/api/dashdata.php on line 10
